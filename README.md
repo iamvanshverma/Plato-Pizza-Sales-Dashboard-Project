@@ -1,4 +1,4 @@
-<h1 align="center">🍕 Pizza Sales Dashboard By Harsh Wadiya 📊</h1>
+<h1 align="center">🍕 Pizza Sales Dashboard By Vansh Verma 📊</h1>
 
 <p align="center">
   A complete SQL + Tableau  project to uncover insights from pizza sales data.<br>
