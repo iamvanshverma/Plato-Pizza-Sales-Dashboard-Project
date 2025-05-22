@@ -178,11 +178,11 @@ Made using Tableau Public with real-time, drillable dashboards for sales trends,
 
 - 📍 **Home Dashboard**
 
-![Dashboard Home 1](https://github.com/harshwadiya/Pizza_sales_Dashboard/blob/30d15293111918dc5530c64361907a97a2b78e6a/Key%20Insights%20and%20Dashboard/Dashboard%20Home%201.png)
+![Dashboard Home 1](https://github.com/iamvanshverma/Plato-Pizza-Sales-Dashboard-Project/blob/d738baba7c4b9d610d353d2382a9fad2e1e3734b/Vansh%20Plato%20Pizza%20Sales%20Project/Pizza%20Sales%20Images/Github/Home1.png)
 
 - 📍 **Best & Worst Sellers**
 
-![Dashboard Home 2](https://github.com/harshwadiya/Pizza_sales_Dashboard/blob/30d15293111918dc5530c64361907a97a2b78e6a/Key%20Insights%20and%20Dashboard/Dashboard%20Home%202.png)
+![Dashboard Home 2](https://github.com/iamvanshverma/Plato-Pizza-Sales-Dashboard-Project/blob/de71119b8a0428a2e7298eaccdbaec438bf8f741/Vansh%20Plato%20Pizza%20Sales%20Project/Pizza%20Sales%20Images/Github/Home%202.png)
 
 ---
 
