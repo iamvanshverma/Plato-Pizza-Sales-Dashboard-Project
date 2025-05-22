@@ -168,9 +168,9 @@ Made using Tableau Public with real-time, drillable dashboards for sales trends,
 
 ### 🧠 Key Insights
 
-![Key Insight 1](https://github.com/harshwadiya/Pizza_sales_Dashboard/blob/30d15293111918dc5530c64361907a97a2b78e6a/Key%20Insights%20and%20Dashboard/Peak%20Hours%20and%20sales%20Performance.jpg)
+![Key Insight 1](https://github.com/iamvanshverma/Plato-Pizza-Sales-Dashboard-Project/blob/32fe5cb52f106d7c59435b368fb6b8a9fad1b9ed/Vansh%20Plato%20Pizza%20Sales%20Project/Pizza%20Sales%20Images/Github/Key%20Insights%20Image%20%201%20Merged%20.png)
 
-![Key Insight 2](https://github.com/harshwadiya/Pizza_sales_Dashboard/blob/30d15293111918dc5530c64361907a97a2b78e6a/Key%20Insights%20and%20Dashboard/image.jpg)
+![Key Insight 2](https://github.com/iamvanshverma/Plato-Pizza-Sales-Dashboard-Project/blob/32fe5cb52f106d7c59435b368fb6b8a9fad1b9ed/Vansh%20Plato%20Pizza%20Sales%20Project/Pizza%20Sales%20Images/Github/Key%20Insights%20Image%202%20Merged.png)
 
 ---
 
