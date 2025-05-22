@@ -23,7 +23,7 @@
 
 🔍 **Click on the image below to explore the live demo of the Pizza Sales Dashboard:**
 
-[![Click here to view the Live Demo - Pizza Sales Dashboard](https://github.com/harshwadiya/Pizza_sales_Dashboard/blob/30d15293111918dc5530c64361907a97a2b78e6a/Key%20Insights%20and%20Dashboard/Dashboard%20Home%201.png)](https://public.tableau.com/views/PlatoPizzaSalesDashboardProjectUM/HOME?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Click here to view the Live Demo - Pizza Sales Dashboard](Vansh Plato Pizza Sales Project/Pizza Sales Images/Github/Home1.png)](https://public.tableau.com/views/PlatoPizzaSalesDashboardProjectUM/HOME?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 🔗 **Or directly visit the demo via this [🔗 link](https://public.tableau.com/views/PlatoPizzaSalesDashboardProjectUM/HOME?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
 
